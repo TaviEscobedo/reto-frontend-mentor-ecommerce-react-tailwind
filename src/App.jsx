@@ -1,5 +1,5 @@
 import  MainHeader  from "./components/header/MainHeader"
-import MainProduct from "./components/header/product/MainProduct"
+import MainProduct from "./components/product/MainProduct"
 
 
 function App() {

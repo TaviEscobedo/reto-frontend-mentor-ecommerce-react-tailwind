@@ -1,12 +1,6 @@
-import React from 'react'
-
-const MainProduct = () => {
-  return (
-      <>
-    <section>
-        gfaleria de imagens
-      </section>
-      <section>
+const DetailsProduct=()=>{
+    return(
+        <section>
         <p>Sneaker Company</p>
         <h2>Fall Limited Edition Sneakers</h2>
         <p>These low-profile sneakers are your perfect casual wear companion. Featuring a 
@@ -25,8 +19,7 @@ const MainProduct = () => {
           <button>Add to cart</button>
         </div>
       </section>
-      </>
-  )
+    )
 }
 
-export default MainProduct
+export default DetailsProduct
